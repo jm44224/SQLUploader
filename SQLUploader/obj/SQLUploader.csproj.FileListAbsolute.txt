@@ -1,0 +1,16 @@
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Debug\SQLUploader.exe
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Debug\SQLUploader.pdb
+C:\Development\Projects\SQLUploader\SQLUploader\bin\Debug\SQLUploader.exe
+C:\Development\Projects\SQLUploader\SQLUploader\bin\Debug\SQLUploader.pdb
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Debug\SQLUploader.Properties.Resources.resources
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Debug\SQLUploader.SQLUploader.resources
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Debug\SQLUploader.csproj.GenerateResource.Cache
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Release\SQLUploader.exe
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Release\SQLUploader.pdb
+C:\Development\Projects\SQLUploader\SQLUploader\bin\Release\SQLUploader.exe
+C:\Development\Projects\SQLUploader\SQLUploader\bin\Release\SQLUploader.pdb
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Release\ResolveAssemblyReference.cache
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Release\SQLUploader.Properties.Resources.resources
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Release\SQLUploader.SQLUploader.resources
+C:\Development\Projects\SQLUploader\SQLUploader\obj\Release\SQLUploader.csproj.GenerateResource.Cache
